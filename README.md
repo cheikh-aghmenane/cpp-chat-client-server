@@ -79,3 +79,5 @@ Pour utiliser un autre port, ou pour se connecter depuis un autre appareil du mÃ
 - Historique des messages enregistrÃ© dans un fichier
 - Interface graphique
 
+## Auteur
+Cheikh Mohamed Asker Ahmed Aghmenane
